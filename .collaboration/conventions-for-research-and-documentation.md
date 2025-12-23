@@ -15,3 +15,5 @@ Each researcher must make sure to adhere to the following conventions:
     * Google Sheet (.gsheet)
     * Microsoft Excel spreadsheet (.xlsx)
     * CSV file (.csv)
+  * **Document structure:"
+    * Features report:
