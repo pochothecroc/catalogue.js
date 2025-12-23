@@ -10,3 +10,8 @@ Each researcher must make sure to adhere to the following conventions:
 
 * **Research compilation:**
   * **Document location:** documentation/research
+  * **Accepted document formats:**
+    * Plain text (.txt)
+    * Google Sheet (.gsheet)
+    * Microsoft Excel spreadsheet (.xlsx)
+    * CSV file (.csv)
