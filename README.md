@@ -2,7 +2,7 @@
 
 Catalogue.js is a JavaScript library for managing filesystems in a server and manipulating virtual filesystems from the client's side.
 
-### Library Features
+## Library Features
 
 * **Quick retrieval:** Catalogue.js makes file and directory searching efficient by using categorization, tagging, and other types of metadata.
 
@@ -25,3 +25,7 @@ Catalogue.js is a JavaScript library for managing filesystems in a server and ma
 * **Simple file operations:** Basic file operations such as copying and moving made simple.
 
 * **Efficient storage management:** Automatically detects any duplicate files and potential unused documents to allow developers to manage the storage smartly.
+
+## Contribution
+
+While this repository aims to further improve the Catalogue.js core and we welcome the open-source community to contribute, there are strict guidelines and conventions that each contributor is expected to adhere to.
