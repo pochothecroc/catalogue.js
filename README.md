@@ -29,3 +29,7 @@ Catalogue.js is a JavaScript library for managing filesystems in a server and ma
 ## Contribution
 
 While this repository aims to further improve the Catalogue.js core and we welcome the open-source community to contribute, there are strict guidelines and conventions that each contributor is expected to adhere to.
+
+### Code of Conduct
+
+Catalogue.js has adopted a [Code of Conduct](.collaboration/code-of-conduct.md) that we expect all project participants to adhere to.
