@@ -16,4 +16,4 @@ Each researcher must make sure to adhere to the following conventions:
     * Microsoft Excel spreadsheet (.xlsx)
     * CSV file (.csv)
   * **Document structure:**
-    * Features report:
+    * Features report: Refer to the [Features Report Conventions](.document-conventions/feature-report-convention).
